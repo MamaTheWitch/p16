@@ -2,7 +2,7 @@
     {name: "Short sleeve black training shirt", print: 3, size: "A", text: "T Pacer Jsy Jr", price: 23.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Detail/351082_103_PUMA_T%20PACER%20JSY%20JR_1432352.png"},
     {name: "Long sleeve black training shirt", print: 3, size: "A", text: "T Liga 1/4 Zip Top Jr", price: 39.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/351073_103_PUMA_T%20LIGA%2014%20ZIP%20TOP%20JR_1432352.jpg"},
     {name: "Yellow tournament shirt", print: 0, size: "A", text: "T Liga Striped Jsy Jr", price: 37.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/360820_104_PUMA_T%20LIGA%20STRIPED%20JSY%20JR_1432352.jpg"},
-    {name: "White guest shirt", print: 0, size: "A", text: "T Liga Ss Jsy Jr", price: 31.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/358885_104_PUMA_T%20LIGA%20SS%20JSY%20JR_1432352.jpg"},
+   // {name: "White guest shirt", print: 0, size: "A", text: "T Liga Ss Jsy Jr", price: 31.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/358885_104_PUMA_T%20LIGA%20SS%20JSY%20JR_1432352.jpg"},
     {name: "Training shorts", print: 4, size: "A", text: "T Goal K Sho Jr", price: 15.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/316580_103_PUMA_T%20GOAL%20K%20SHO%20JR_1432352.jpg"},
     {name: "Training pants", print: 3, size: "A", text: "T Liga Trg Pnt Jr", price: 31.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/351046_101_PUMA_T%20LIGA%20TRG%20PNT%20JR_1432352.jpg"},
     {name: "Training jacket", print: 3, size: "A", text: "T Liga Trg Jkt Jr", price: 43.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/351072_103_PUMA_T%20LIGA%20TRG%20JKT%20JR_1432352.jpg"},
@@ -22,9 +22,25 @@
     ];
     
     var players = [
-        "Aarne Aho #16", 
-        "Leo Aikavuori #13", 
-        "Emil Auvinen #26", 
-        "Nooa Choi #38", 
-        "Noel Immonen #23"
+        'Lukas Bozhinovski #7',
+'Casper Breilin #40',
+'Lukas Cainberg #14',
+'Max Jansson #41',
+'Henrik Kapanen #1',
+'Akseli Karjalainen #2',
+'Tyko Kaste #81',
+'Eemil Keskitalo #73',
+'Julius Kiltti #11',
+'Roope Leinonen #20',
+'Valtteri Lounamaa #16',
+'Lassi Moilala #7',
+'Matthaios Palla #10',
+'Patrik Palmula #15',
+'Aatos Onni Pulkkinen #8',
+'Elliot Rantanen #6',
+'Gabriel Sihvola #9',
+'Jaakko Sutinen #14',
+'Eliel Taivainen #10',
+'Albertas Valasinas #3',
+'Patrick Zhang #31'
     ]; 
