@@ -107,9 +107,14 @@ GenerateCartItems()
 			window.location='kiitos.html'+window.location.search;
 		};
 	
+	const loader = document.querySelector("#loading");
+	function displayLoading() {
+		loader.classList.add("display");
+	};
+	
         document.getElementById("Submit").addEventListener("click", function(){
 			let arrayOfPromises = [];
-
+			displayLoading();
 			for (var i = 0, len = basket.length; i < len; i++) {
 				async function postData(url = 'https://honka-server.hasura.app/v1/graphql', data = basket) {
 		  		const response = await fetch(url, {
