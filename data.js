@@ -8,7 +8,7 @@
     {name: "Training jacket", print: 3, size: "A", text: "T Liga Trg Jkt Jr", price: 43.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/351072_103_PUMA_T%20LIGA%20TRG%20JKT%20JR_1432352.jpg"},
     {name: "Hoodie", print: 3, size: "A", text: "T Goal Cas Hood Jr", price: 31.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/299732_101_PUMA_T%20GOAL%20CAS%20HOOD%20JR_1432352.jpg"},
     {name: "Zip-up hoodie", print: 3, size: "A", text: "T Goal Hood Jkt Jr", price: 43.49, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/299730_101_PUMA_T%20GOAL%20HOOD%20JKT%20JR_1432352.jpg"},
-    {name: "Softshell jacket", print: 3, size: "B", text: "Softshel Jkt Jr", price: 40.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/259328_104_CLIQUE_SOFTSHEL%20JKT%20JR_1432352.jpg"},
+ //   {name: "Softshell jacket", print: 3, size: "B", text: "Softshel Jkt Jr", price: 40.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/259328_104_CLIQUE_SOFTSHEL%20JKT%20JR_1432352.jpg"},
     {name: "Jacket", print: null, size: "A", text: "T Liga Aw Jkt Jr", price: 48.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/351055_103_PUMA_T%20LIGA%20AW%20JKT%20JR_1432352.jpg"},
     {name: "Light winter jacket", print: null, size: "A", text: "T Liga Light Jkt Jr", price: 76.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/360814_101_PUMA_T%20LIGA%20LIGHT%20JKT%20JR_1432352.jpg"},
     {name: "Warm winter jacket", print: null, size: "A", text: "Bench Jkt Jr", price: 92.99, pic: "https://www.stadiumteamsales.fi/INTERSHOP/static/WFS/Stadium-FinlandTeamsales-Site/-/Stadium/fi_FI/Zoom/371689_101_PUMA_BENCH%20JKT%20JR_1432352.jpg"},
@@ -22,7 +22,7 @@
     ];
     
     var players = [
-        'Lukas Bozhinovski #7',
+'Lukas Bozhinovski #7',
 'Casper Breilin #40',
 'Lukas Cainberg #14',
 'Max Jansson #41',
